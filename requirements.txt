@@ -1,0 +1,6 @@
+autogen
+selenium
+beautifulsoup4
+undetected-chromedriver
+fake-useragent 
+requests
