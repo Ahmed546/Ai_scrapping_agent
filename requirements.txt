@@ -4,3 +4,4 @@ beautifulsoup4
 undetected-chromedriver
 fake-useragent 
 requests
+pandas
